@@ -33,7 +33,7 @@ function Features() {
 					<div className='max-w-3xl mx-auto text-center pb-12 md:pb-16'>
 						<h1 className='h3 mb-4'>Why Web3?</h1>
 						<p className='text-lg text-gray-600'>
-							Cryptocurrencies and tokens are not just transforming finance and money, but also the ways in which creators can form Internet-native organizations to create and share value. Web3 has become a proxy for new economic ideas on how the Internet should be architected, and how individuals should share in this value creation.
+							Cryptocurrencies and tokens are not just transforming finance and money, but also the ways in which creators can form Internet-native organizations to create and share value.
 						</p>
 					</div>
 					{/* Section content */}
@@ -44,10 +44,9 @@ function Features() {
 							data-aos='fade-right'
 						>
 							<div className='md:pr-4 lg:pr-12 xl:pr-16 mb-8 pt-2'>
-								<h3 className='h4 mb-3'>Turn ideas into apps in hours</h3>
+								<h3 className='h4 mb-3'>The Web3 Economy</h3>
 								<p className='text-base text-gray-600'>
-									The complete toolbox to create applications that solve the
-									hardest problems without writing a line of code
+									 Web3 has become a proxy for new economic ideas on how the Internet should be architected, and how individuals should share in this value creation.
 								</p>
 							</div>
 							{/* Tabs buttons */}
