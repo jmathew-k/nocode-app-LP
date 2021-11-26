@@ -65,11 +65,10 @@ function Features() {
 								>
 									<div>
 										<div className='font-bold text-base leading-snug tracking-tight mb-1'>
-											Powerful decision engine
+											Web1
 										</div>
 										<div className='text-gray-600 text-sm'>
-											Adaptive business rule engine that can implement your
-											domain specific expert knowledge
+										Open source internet protocols from the 70s and 80s, including TCP, IP, SMTP and HTTP.
 										</div>
 									</div>
 									<div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
@@ -96,11 +95,10 @@ function Features() {
 								>
 									<div>
 										<div className='font-bold text-base leading-snug tracking-tight mb-1'>
-											AI functional blocks
+											Web2
 										</div>
 										<div className='text-gray-600 text-sm'>
-											Configurable functional blocks for natural language processing and 
-											computer vision capabilities
+											Web2's business model depended on building proprietary, closed protocols on top of the Internet’s open ones.
 										</div>
 									</div>
 									<div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
@@ -130,11 +128,10 @@ function Features() {
 								>
 									<div>
 										<div className='font-bold leading-snug tracking-tight mb-1 text-base'>
-											Drag and drop interface designer
+											Web3
 										</div>
 										<div className='text-gray-600 text-sm'>
-											Create customised user interfaces like dashboards, forms,
-											chatbots etc. to interact with users
+											Like Web1, open source protocols, but collectively owned through cryptoeconomics.
 										</div>
 									</div>
 									<div className='flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3'>
