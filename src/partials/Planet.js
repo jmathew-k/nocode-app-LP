@@ -7,7 +7,7 @@ function FeaturesWorld() {
 				<div className='py-12 md:py-20'>
 					{/* Section header */}
 					<div className='max-w-3xl mx-auto text-center pb-12 md:pb-16'>
-						<h1 className='h4 mb-1s'>Unlock Web3. <br/> Build on Solana. <br/> Collaborate worldwide.</h1>
+						<h1 className='h4 mb-1s'>Unlock Web3. <br/> Build on Crypto. <br/> Collaborate worldwide.</h1>
 						{/* <p className='text-base text-gray-600'>
 							Deploy apps to instantly go live on our global edge network,
 							putting your content as close as possible to your users.
