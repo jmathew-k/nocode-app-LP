@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 function CtaAlternative() {
 	return (
@@ -23,10 +22,9 @@ function CtaAlternative() {
 							<div>
 								<a
 									href='https://us13.list-manage.com/contact-form?u=de3b7468d46b98fc48453220a&form_id=ffc6eabbe23cfb0762a4808b4417de2d'
-									button
-									class=' hidden md:block px-3 py-2 text-sm rounded text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3s'
+									className='btn text-black text-sm bg-white hover:bg-gray-100'
 								>
-									<span>Contact</span>
+									Get In Touch
 								</a>
 							</div>
 						</div>
