@@ -51,7 +51,7 @@ function Header() {
 							</li>
 							<li>
 								<Link
-									to='/demo'
+									to='https://us13.list-manage.com/contact-form?u=de3b7468d46b98fc48453220a&form_id=ffc6eabbe23cfb0762a4808b4417de2d'
 									button
 									class=' hidden md:block px-3 py-2 text-sm rounded text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3s'
 								>
