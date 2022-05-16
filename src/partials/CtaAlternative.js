@@ -23,7 +23,7 @@ function CtaAlternative() {
 							<div>
 								<a
 									href='https://us13.list-manage.com/contact-form?u=de3b7468d46b98fc48453220a&form_id=ffc6eabbe23cfb0762a4808b4417de2d'
-									className='btn text-black text-sm bg-white hover:bg-gray-100'
+									button class =' text-black text-sm bg-white hover:bg-gray-100'
 								>
 									Get In Touch
 								</a>
